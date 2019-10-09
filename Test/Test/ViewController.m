@@ -30,7 +30,9 @@
 -(void)TestEx
 {
     
-    NSLog(@"ddddd");
+    NSLog(@"ddddd修改上次2019-10-09  5:44");
+    
+    NSLog(@"ddd11");
 }
 
 //声明实例变量名
@@ -38,6 +40,7 @@
 
 
 - (void)viewDidLoad {
+    
     
     
     [super viewDidLoad];
